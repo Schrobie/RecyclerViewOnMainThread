@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewOnMainThread</string>
+    <string name="descprition">When the app starts the data is added to the list on the Main Thread and the adapter is notified on the Main Thread. Buttons load data in the list on a background thread each time and notify on the Main Thread or background thread depending on the button.</string>
+</resources>
